@@ -13,5 +13,3 @@
 
 
 ### Other considerations
-
-- [ ] Hours are logged in JIRA ticket (always required)
